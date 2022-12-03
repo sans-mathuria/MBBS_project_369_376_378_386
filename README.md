@@ -3,4 +3,4 @@
   
   Add main folder to xampp/htdocs folder 
     
-  Run on localhost/leave_management
+  Run on localhost/leave_system
