@@ -2,5 +2,6 @@
 ## To run the code: 
   
 - Add main folder to xampp/htdocs folder 
-    
-- Run on localhost/leave_system
+- Create a new database named leave_db
+- Import the SQL file. The file is known as leave_db.sql located inside the database folder
+- Run on http://localhost/leave_system
